@@ -13,7 +13,7 @@ A aplicação segue o padrão de camadas:
 ### 📦 `model/Brinquedo.java`
 Classe que representa o brinquedo (a entidade). Contém os atributos:
 
-```java
+```java 
 private Long id;
 private String nome;
 private Double preco;
